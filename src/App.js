@@ -3,7 +3,6 @@ import "./App.css"
 import useTransaction from "./hooks/useTransactions"
 import Table from './Components/CustomerRewardsTable'
 import styled from 'styled-components'
-import _ from 'lodash';
 
 const Styles = styled.div`
   padding: 1rem;
